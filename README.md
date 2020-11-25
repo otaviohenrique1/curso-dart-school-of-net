@@ -1,2 +1,1 @@
-# curso-dart-school-of-net
-curso-dart-school-of-net
+# Atividades desenvolvidas nos cursos de dart da School of Net
